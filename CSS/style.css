@@ -1,7 +1,6 @@
 body{
     background-color: lightgrey;
-    margin: 0;
-    padding: 0;
+
 }
 
 nav{
@@ -11,8 +10,8 @@ nav{
     height: 6vh;
 }
 
-.container{
-    height: 90vh;
+.tophalf{
+    height: 60vh;
     background-color: white;
     text-align: center;
 }
@@ -22,10 +21,15 @@ nav{
     text-align: center;
     color: white;
 }
+
 .column2{
     background-color: darkgreen;
     text-align: center;
     color: white;
+}
+
+.jumbotron{
+    height: 30vh
 }
 
 footer div{
